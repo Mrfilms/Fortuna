@@ -7875,7 +7875,6 @@
 /turf/open/floor/plasteel/f13/vault_floor/neutral/neutralchess,
 /area/f13/bunker)
 "jWr" = (
-
 /obj/structure/closet,
 /obj/item/instrument/violin/golden,
 /obj/item/reagent_containers/food/drinks/flask/gold{
